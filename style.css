@@ -1,0 +1,31 @@
+/*Colors and fonts */
+
+body {
+	background:#f6d198;
+	color: #7ebdb4;
+	font-family:'Raleway', sans-serif;
+	font-size: 16px;
+}
+
+h1, h2, h3 {
+	color: #862a5c;
+	font-family: 'Raleway', sans-serif;
+	font-size: 22px;
+}
+
+a {
+  color: #f4a548;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #f4a548;
+  text-decoration: none;
+}
+
+div {
+	
+	
+
+
+}
